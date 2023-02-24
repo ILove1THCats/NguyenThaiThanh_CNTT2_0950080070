@@ -1,0 +1,155 @@
+{
+    "_id" : "Titanic_2001",
+    "name" : "Titanic",
+    "year" : 2001.0,
+    "genre" : [
+        "romantic",
+        "drama"
+    ],
+    "description" : "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic",
+    "ratings" : [
+        {
+            "rating" : 4.0,
+            "date" : ISODate("2014-03-03T00:00:00.000+0000")
+        },
+        {
+            "rating" : 3.0,
+            "date" : ISODate("2014-06-06T00:00:00.000+0000")
+        }
+    ]
+}
+,{
+    "_id" : "Sunshine_2009",
+    "name" : "Sunshine",
+    "year" : 2009.0,
+    "genre" : [
+        "sci-fi",
+        "thriller"
+    ],
+    "description" : "A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.",
+    "ratings" : [
+        {
+            "date" : ISODate("2014-03-03T00:00:00.000+0000"),
+            "rating" : 3.0
+        },
+        {
+            "date" : ISODate("2013-09-11T00:00:00.000+0000"),
+            "rating" : 4.0
+        },
+        {
+            "date" : ISODate("2013-01-24T00:00:00.000+0000"),
+            "rating" : 4.0
+        }
+    ]
+}
+,{
+    "_id" : "Forest_2005",
+    "name" : "Forest Gump",
+    "year" : 2005.0,
+    "genre" : [
+        "drama",
+        "crime",
+        "thriller"
+    ],
+    "description" : "A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.",
+    "ratings" : [
+        {
+            "date" : ISODate("2014-12-30T00:00:00.000+0000"),
+            "rating" : 5.0
+        },
+        {
+            "date" : ISODate("2014-07-01T00:00:00.000+0000"),
+            "rating" : 4.0
+        }
+    ]
+}
+,{
+    "_id" : "Idiots_2004",
+    "name" : "3 Idiots",
+    "year" : 2004.0,
+    "genre" : [
+        "drama",
+        "comedy",
+        "romantic"
+    ],
+    "description" : "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them idiots",
+    "ratings" : [
+        {
+            "rating" : 5.0,
+            "date" :  ISODate("2014-12-30T00:00:00Z")
+            
+        },
+        {
+            "rating" : 4.0,
+            "date" :  ISODate("2010-11-08T00:00:00Z")
+            
+        },
+        {
+            "rating" : 4.0,
+            "date" : ISODate("2010-12-10T00:00:00Z")
+            
+        }
+    ]
+}
+,{
+    "_id" : "Inception_2006",
+    "name" : "Inception",
+    "year" : 2006.0,
+    "genre" : [
+        "action",
+        "adventure",
+        "sci-fi"
+    ],
+    "description" : "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "ratings" : [
+        {
+            "date" : ISODate("2014-06-10T00:00:00.000+0000"),
+            "rating" : 3.0
+        },
+        {
+            "date" : ISODate("2012-04-13T00:00:00.000+0000"),
+            "rating" : 2.0
+        }
+    ]
+}
+,{
+    "_id" : "Wolf_2009",
+    "name" : "Wolf of wall street",
+    "year" : 2009.0,
+    "genre" : [
+        "action",
+        "adventure",
+        "drama"
+    ],
+    "description" : "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+}
+,{
+    "_id" : "Fast_And_Furious_2015",
+    "name" : "Fast_And_Furious",
+    "year" : 2015.0,
+    "genre" : [
+        "action",
+        "adventure",
+        "drama"
+    ],
+    "description" : "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "ratings" : [
+        {
+            "date" : ISODate("2016-11-24T00:00:00.000+0000"),
+            "rating" : 4.0
+        },
+        {
+            "date" : ISODate("2017-01-17T00:00:00.000+0000"),
+            "rating" : 5.0
+        },
+        {
+            "date" : ISODate("2016-08-02T00:00:00.000+0000"),
+            "rating" : 5.0
+        },
+        {
+            "date" : ISODate("2019-12-15T00:00:00.000+0000"),
+            "rating" : 4.0
+        }
+    ]
+}
+
